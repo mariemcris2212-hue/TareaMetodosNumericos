@@ -18,7 +18,9 @@ Ejecute la clase principal encargada de coordinar la lógica del sistema para pr
 Ejemplo de PruebaSistema de Ecuaciones / Matriz de Entrada:
 El programa resuelve el siguiente sistema de ecuaciones mediante eliminación gaussiana y sustitución regresiva:
 3.0x_1 - 0.1x_2 - 0.2x_3 = 7.85
+
 0.1x_1 + 7.0x_2 - 0.3x_3 = -19.3
+
 0.3x_1 - 0.2x_2 + 10.0x_3 = 71.4
 
 Salida esperada en consola:
